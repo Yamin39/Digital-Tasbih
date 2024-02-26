@@ -47,7 +47,7 @@ alhamdulillahDecrement.addEventListener("click", () => {
 
 let allahuakbarCount = 0;
 allahuakbarIncrement.addEventListener("click", () => {
-  if (allahuakbarCount < 33) {
+  if (allahuakbarCount < 34) {
     allahuakbarCount++;
     allahuakbarDisplay.innerText = allahuakbarCount;
   }
